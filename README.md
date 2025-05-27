@@ -15,5 +15,5 @@ Este projeto consiste em uma pequena API desenvolvida em Python com o framework 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
-   cd nome-do-repo
+   git clone https://github.com/XavierNTC/Python
+   cd Python
